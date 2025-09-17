@@ -1,0 +1,1 @@
+{"X_train.dtype": "torch.float32", "y_train.dtype": "torch.int64", "X_valid.dtype": "torch.float32", "y_valid.dtype": "torch.int64", "X_train.shape": [1, 28, 28], "X_valid.shape": [1, 28, 28], "y_train.shape": [], "y_valid.shape": [], "X_train.mean": 0.022655218839645386, "y_train.mean": 5.0, "X_valid.mean": -0.12461240589618683, "y_valid.mean": 7.0}
